@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+launchConfigExternalUrlPrefix=/var/lib/tomcat7/webapps/ROOT/
+warSrcDir=war
+warSrcDirIsOutput=true

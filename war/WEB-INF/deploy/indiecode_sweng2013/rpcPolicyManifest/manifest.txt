@@ -1,0 +1,3 @@
+# Module indiecode_sweng2013
+# RPC service class, partial path of RPC policy file
+it.indieCODE.sweng2013.client.GreetingService, 6BE743A2230CD00F018E9EE877E60EDA.gwt.rpc

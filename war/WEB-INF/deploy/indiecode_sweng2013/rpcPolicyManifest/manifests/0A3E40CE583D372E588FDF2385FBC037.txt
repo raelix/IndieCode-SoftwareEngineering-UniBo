@@ -1,0 +1,2 @@
+serviceClass: it.indieCODE.sweng2013.client.GreetingService
+path: 6BE743A2230CD00F018E9EE877E60EDA.gwt.rpc
